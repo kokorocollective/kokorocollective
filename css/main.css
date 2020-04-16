@@ -3,6 +3,7 @@ body {
     width: 70%;
     background-image: url(../images/KoKoro-image.png);
     background-size:100% 100%;
+    background-repeat:no-repeat;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
