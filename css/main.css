@@ -6,7 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
-body {  background-image: URL(https://github.com/kokorocollective/kokorocollective.github.io/issues/1#issue-601511657) } 
+{  background-image: URL(https://github.com/kokorocollective/kokorocollective.github.io/issues/1#issue-601511657)
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
@@ -23,8 +23,8 @@ body {  background-image: URL(https://github.com/kokorocollective/kokorocollecti
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+        		<!--<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li> -->
 			</ul>
 		</footer>
 	</body>
