@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-image: url(../images/KoKoro-image.png);
-    background-size: contain;
+    background-size:50%;
     background-repeat:no-repeat;
 }
 nav ul, footer ul {
