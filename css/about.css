@@ -64,13 +64,13 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
+/*a:hover {
     text-decoration: underline;
-}
+}*/
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-color:#999;
+    font-color: #999;
 }
 p {
     font-size: 1.5em;
