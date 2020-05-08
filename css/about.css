@@ -1,0 +1,106 @@
+<div class="header">
+  <p>head</p>
+</div>
+
+head {
+    /* border-top: : 1px solid #d5d5d5;*/
+    font-size: .8em;
+    position: absolute;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px
+    /* background:#ccc; */
+    /* margin-top: 100px */
+    /* clear: both; */
+}
+
+
+
+body {
+    margin: 60px auto;
+    width: 70%;
+   /* background-image: url(../images/KoKoro-image.png);*/
+  /*  background-size:60%;*/
+   /* background-repeat:no-repeat;*/
+
+
+  /* Location of the image */
+  background-image: url(../images/KoKoro-image.png);
+  
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+  background-size: cover;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  background-color: #464646;
+}
+
+
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-color:'#FFFFFF';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #999;
+}
+</style>
+
+<div class="footer">
+  <p>footer</p>
+</div>
+
+footer {
+    /* border-top: : 1px solid #d5d5d5;*/
+    font-size: .8em;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px
+    background:#ccc;
+    /* margin-top: 100px */
+    /* clear: both; */
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
